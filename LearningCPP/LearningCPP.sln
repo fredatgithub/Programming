@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 05 - Outputting Tex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 06 - Variables", "Lecture 6 - Variables\Lecture 6 - Variables.vcxproj", "{F9EF962A-02DA-45F8-9729-88EACD7E8A57}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 07 - Strings", "Lecture 07 - Strings\Lecture 07 - Strings.vcxproj", "{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F9EF962A-02DA-45F8-9729-88EACD7E8A57}.Release|x64.Build.0 = Release|x64
 		{F9EF962A-02DA-45F8-9729-88EACD7E8A57}.Release|x86.ActiveCfg = Release|Win32
 		{F9EF962A-02DA-45F8-9729-88EACD7E8A57}.Release|x86.Build.0 = Release|Win32
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Debug|x64.ActiveCfg = Debug|x64
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Debug|x64.Build.0 = Debug|x64
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Debug|x86.Build.0 = Debug|Win32
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Release|x64.ActiveCfg = Release|x64
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Release|x64.Build.0 = Release|x64
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Release|x86.ActiveCfg = Release|Win32
+		{76A06F4E-8C82-4CE6-A868-65A72F3CBC3F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

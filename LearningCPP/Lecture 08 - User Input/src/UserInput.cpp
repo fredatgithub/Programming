@@ -12,10 +12,10 @@ int main() {
 	string month;
 	string day;
 	string year;
-	
+
 	cout << "What is your name? ";
 	cin >> name;
-	
+
 	cout << "What month were you born in? ";
 	cin >> month;
 

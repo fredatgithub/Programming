@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F016BB31-F934-413D-89FC-D1135BC383EA}</ProjectGuid>
-    <RootNamespace>Lecture8UserInput</RootNamespace>
+    <ProjectGuid>{B5E10446-11A8-4524-9AB2-FA39BD9584B9}</ProjectGuid>
+    <RootNamespace>Lecture06Variables</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\Input.cpp" />
+    <ClCompile Include="src\Variables.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

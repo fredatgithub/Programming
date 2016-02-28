@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 18 - While Loops", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Git Bot", "Git Bot\Git Bot.vcxproj", "{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 19 - Do While", "Lecture 19 - Do While\Lecture 19 - Do While.vcxproj", "{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x64.Build.0 = Release|x64
 		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x86.ActiveCfg = Release|Win32
 		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x86.Build.0 = Release|Win32
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x64.ActiveCfg = Debug|x64
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x64.Build.0 = Debug|x64
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x86.Build.0 = Debug|Win32
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Release|x64.ActiveCfg = Release|x64
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Release|x64.Build.0 = Release|x64
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Release|x86.ActiveCfg = Release|Win32
+		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,12 +2,16 @@
 
 #include <iostream>
 
-int main() {
-	//Adding files
+using std::cin;
+using std::cout;
+
+int main() {	
+	//Git Stuff
 	system("git add -A");
 	system("git commit -a");
 	system("git push");
-
-	std::cin.get();
+	
+	cout << "Thank you for using the bot :D";
+	cin.get();
 	return 0;
 }

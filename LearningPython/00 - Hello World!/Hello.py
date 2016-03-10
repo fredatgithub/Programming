@@ -1,1 +1,0 @@
-print "Hello World!" #Prints 'Hello World' into console

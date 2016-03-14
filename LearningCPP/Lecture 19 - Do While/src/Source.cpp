@@ -32,6 +32,7 @@ int main() {
 		cout << "\n\nNo more chances... Exiting" << endl; 
 		cin.get();
 	}
-	
+
+	cin.get();
 	return 0;
 }

@@ -6,7 +6,6 @@ using std::cout;
 using std::endl;
 using std::string;
 
-
 int main() {
 	const string password = "hello";
 	int chances = 3;

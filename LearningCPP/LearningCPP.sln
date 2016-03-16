@@ -31,13 +31,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 17 - Conditions", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 18 - While Loops", "Lecture 18 - While Loops\Lecture 18 - While Loops.vcxproj", "{C1A42DDA-3CE0-4FC4-8DFC-7748E5C80F09}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Git Bot", "Git Bot\Git Bot.vcxproj", "{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 19 - Do While", "Lecture 19 - Do While\Lecture 19 - Do While.vcxproj", "{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 20 - For Loops", "Lecture 20 - For Loops\Lecture 20 - For Loops.vcxproj", "{C55458C3-9034-4FC8-BA81-853BA615039D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 21 - Break and Continue", "Lecture 21 - Break and Continue\Lecture 21 - Break and Continue.vcxproj", "{8CA90C67-7481-4958-B7D8-E5B2214EE4A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 22 - Arrays", "Lecture 22 - Arrays\Lecture 22 - Arrays.vcxproj", "{BEF79647-F477-4FEB-82EA-A36C6565F66D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,14 +159,6 @@ Global
 		{C1A42DDA-3CE0-4FC4-8DFC-7748E5C80F09}.Release|x64.Build.0 = Release|x64
 		{C1A42DDA-3CE0-4FC4-8DFC-7748E5C80F09}.Release|x86.ActiveCfg = Release|Win32
 		{C1A42DDA-3CE0-4FC4-8DFC-7748E5C80F09}.Release|x86.Build.0 = Release|Win32
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Debug|x64.ActiveCfg = Debug|x64
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Debug|x64.Build.0 = Debug|x64
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Debug|x86.ActiveCfg = Debug|Win32
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Debug|x86.Build.0 = Debug|Win32
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x64.ActiveCfg = Release|x64
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x64.Build.0 = Release|x64
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x86.ActiveCfg = Release|Win32
-		{59F7A721-BFCC-4FAB-B392-2DFAF66E8F6F}.Release|x86.Build.0 = Release|Win32
 		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x64.ActiveCfg = Debug|x64
 		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x64.Build.0 = Debug|x64
 		{008E9FF1-D3E4-4E1E-AF71-1843E4C2C4C3}.Debug|x86.ActiveCfg = Debug|Win32
@@ -191,6 +183,14 @@ Global
 		{8CA90C67-7481-4958-B7D8-E5B2214EE4A1}.Release|x64.Build.0 = Release|x64
 		{8CA90C67-7481-4958-B7D8-E5B2214EE4A1}.Release|x86.ActiveCfg = Release|Win32
 		{8CA90C67-7481-4958-B7D8-E5B2214EE4A1}.Release|x86.Build.0 = Release|Win32
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Debug|x64.ActiveCfg = Debug|x64
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Debug|x64.Build.0 = Debug|x64
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Debug|x86.Build.0 = Debug|Win32
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Release|x64.ActiveCfg = Release|x64
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Release|x64.Build.0 = Release|x64
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Release|x86.ActiveCfg = Release|Win32
+		{BEF79647-F477-4FEB-82EA-A36C6565F66D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

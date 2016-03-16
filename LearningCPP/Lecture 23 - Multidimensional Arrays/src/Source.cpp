@@ -1,7 +1,7 @@
 #include <iostream>
 
 /* Use this as an example: 
-x	|	1	2	3	4	5	6	7	8	9	10	11	12
+0	|	1	2	3	4	5	6	7	8	9	10	11	12
 --------------------------------------------------------
 1	|	1	2	3	4	5	6	7	8	9	10	11	12
 2	|	2	4	6	8	10	12	14	16	18	20	22	24
@@ -17,9 +17,11 @@ x	|	1	2	3	4	5	6	7	8	9	10	11	12
 12	|	12	24	36	48	60	72	84	96	108	120	132	144
 */
 
-
 int main() {
-	int table[][13] = {
+
+	const int row = 12;
+	const int col = 13;
+	int table[row][col] = {
 		{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 },
 		{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 },
 		{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 },
@@ -33,15 +35,15 @@ int main() {
 		{ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }
 	};
 
-	for (int i = 1; i < 13; i++) {
-		for (int j = 1; j < 13; j++) {
+	for (int i = 1; i < col; i++) {
+		for (int j = 1; j < col; j++) {
 			table[i][j] = i * j; // Multipies each number together
 		}
 	}
 
-	for (int i = 1; i < 13; i++) {
-		for (int j = 1; j < 13; j++) {
-			std::cout <<  table[i][j] << "\t" << " "; // Prints the table to the console
+	for (int i = 1; i < col; i++) {
+		for (int j = 1; j < col; j++) {
+			std::cout << table[i][j] << "\t"; // Prints the table to the console
 		}
 		std::cout << std::endl << std::endl;
 	}

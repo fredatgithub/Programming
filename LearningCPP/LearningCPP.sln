@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 22 - Arrays", "Lect
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 23 - Multidimensional Arrays", "Lecture 23 - Multidimensional Arrays\Lecture 23 - Multidimensional Arrays.vcxproj", "{BF167341-57E2-4D66-9439-088F5269BE6A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 24 - Sizeof and Arrays", "Lecture 24 - Sizeof and Arrays\Lecture 24 - Sizeof and Arrays.vcxproj", "{0D55DD1B-ADF7-49BC-9363-38BED16A118D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{BF167341-57E2-4D66-9439-088F5269BE6A}.Release|x64.Build.0 = Release|x64
 		{BF167341-57E2-4D66-9439-088F5269BE6A}.Release|x86.ActiveCfg = Release|Win32
 		{BF167341-57E2-4D66-9439-088F5269BE6A}.Release|x86.Build.0 = Release|Win32
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Debug|x64.ActiveCfg = Debug|x64
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Debug|x64.Build.0 = Debug|x64
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Debug|x86.Build.0 = Debug|Win32
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Release|x64.ActiveCfg = Release|x64
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Release|x64.Build.0 = Release|x64
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Release|x86.ActiveCfg = Release|Win32
+		{0D55DD1B-ADF7-49BC-9363-38BED16A118D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

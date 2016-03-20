@@ -7,16 +7,11 @@
 
 class Dog {
 public:
-	
-
 	void getInfo();
 	void showInfo();
 
 private: 
-	// This cant be changed by users
-	void bark(); 
-	void growl();
-	
+	// This cant be changed by users	
 	std::ofstream dogInfo;
 	bool happy;
 	int age;

@@ -1,14 +1,6 @@
 #include <iostream>
 #include "../include/dog.h"
 
-void Dog::bark() {
-	std::cout << "*Bark*" << std::endl;
-}
-
-void Dog::growl() {
-	std::cout << "*Grrrrrr*" << std::endl;
-}
-
 void Dog::getInfo() {
 	std::cout << "What is your dogs name? ";
 	std::cin >> Dog::name;

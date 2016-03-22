@@ -57,8 +57,6 @@ void Enemy::setStats(double ammo, double armour, double health, double mana) {
 }
 
 
-
-
 // Getters
 //------------------------------------//
 std::string Enemy::getName(){
@@ -92,6 +90,7 @@ void Enemy::getStats(){
 	Enemy::enemyStats << "Enemy Armour \t- " << Enemy::getArmour() << std::endl;
 	Enemy::enemyStats << "Enemy Health \t- " << Enemy::getHealth() << std::endl;
 	Enemy::enemyStats << "Enemy Mana \t- " << Enemy::getMana() << std::endl;
+	Enemy::enemyStats << std::endl;
 
 	std::cout << Enemy::enemyStats.str();
 }

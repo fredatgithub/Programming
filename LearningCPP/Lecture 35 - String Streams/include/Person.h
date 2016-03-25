@@ -4,8 +4,7 @@
 
 #include <sstream>
 
-class Person
-{
+class Person {
 private:
 	double ammo;
 	double armour;

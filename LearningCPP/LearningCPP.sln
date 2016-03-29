@@ -73,6 +73,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 38 - Constructor In
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 39 - Pointers", "Lecture 39 - Pointers\Lecture 39 - Pointers.vcxproj", "{58B342F6-4596-4E78-B71C-12EEC94832E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 40 - Arithmetic", "Lecture 40 - Arithmetic\Lecture 40 - Arithmetic.vcxproj", "{22F3191D-0D27-47DF-8014-284DA170C5A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -361,6 +363,14 @@ Global
 		{58B342F6-4596-4E78-B71C-12EEC94832E1}.Release|x64.Build.0 = Release|x64
 		{58B342F6-4596-4E78-B71C-12EEC94832E1}.Release|x86.ActiveCfg = Release|Win32
 		{58B342F6-4596-4E78-B71C-12EEC94832E1}.Release|x86.Build.0 = Release|Win32
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Debug|x64.ActiveCfg = Debug|x64
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Debug|x64.Build.0 = Debug|x64
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Debug|x86.Build.0 = Debug|Win32
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Release|x64.ActiveCfg = Release|x64
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Release|x64.Build.0 = Release|x64
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Release|x86.ActiveCfg = Release|Win32
+		{22F3191D-0D27-47DF-8014-284DA170C5A3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

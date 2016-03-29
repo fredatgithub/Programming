@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{58B342F6-4596-4E78-B71C-12EEC94832E1}</ProjectGuid>
-    <RootNamespace>Lecture39Pointers</RootNamespace>
+    <ProjectGuid>{22F3191D-0D27-47DF-8014-284DA170C5A3}</ProjectGuid>
+    <RootNamespace>Lecture40Arithmetic</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -111,6 +111,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SecondConverter.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SecondConverter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

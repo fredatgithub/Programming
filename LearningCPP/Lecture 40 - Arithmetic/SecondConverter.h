@@ -15,7 +15,6 @@ public:
 	SecondConverter();
 	
 	int convert(int seconds);
-	
 	int toMinutes(int seconds);
 	int toHours(int minutes);
 

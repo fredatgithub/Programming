@@ -24,7 +24,7 @@ int main()
 	std::cin >> seconds;
 	
 	SecondConverter convert;
-	convert.convert(seconds);
+	convert.convert(&seconds);
 	std::cout << convert.toString() << std::endl;;
 	
 	system("pause");

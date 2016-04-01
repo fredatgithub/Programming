@@ -14,9 +14,9 @@ public:
 public:
 	SecondConverter();
 	
-	int convert(int seconds);
-	int toMinutes(int seconds);
-	int toHours(int minutes);
+	int convert(int* seconds);
+	int toMinutes(int* seconds);
+	int toHours(int* minutes);
 
 	std::string toString();
 };

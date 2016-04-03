@@ -3,12 +3,12 @@
 
 Looping::Looping()
 {
-	limit = sizeof(this->favoriteGames) / sizeof(std::string);
+	this->limit = sizeof(this->favoriteGames) / sizeof(std::string);
 }
 
 void Looping::loop1()
 {
-	std::string* pTexts = this->favoriteGames; // The pointer is assigned to the array
+	std::string *pTexts = this->favoriteGames; // The pointer is assigned to the array
 
 	for (int i = 0; i < this->limit; i++)
 	{
@@ -20,11 +20,11 @@ void Looping::loop1()
 
 void Looping::loop2()
 {
-	std::string* pTexts = this->favoriteGames; // The pointer is assigned to the array
+	std::string *pTexts = this->favoriteGames; // The pointer is assigned to the array
 
 	for (int i = 0; i < this->limit; i++, pTexts++)
 	{
-		std::cout << i << ". " << *pTexts << std::endl;
+		std::cout << i << ". " << *pTexts << std::endl; // Dereference the pointer to show the actual value instead of the adress
 	}
 
 	std::cout << std::endl;

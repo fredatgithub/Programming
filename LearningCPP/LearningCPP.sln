@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 40 - Arithmetic", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 41 - Pointers and Arrays", "Lecture 41 - Pointers and Arrays\Lecture 41 - Pointers and Arrays.vcxproj", "{A0AEE594-DB00-421F-ACD5-E85D1BB8E6F0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 42 - Pointer Arithmetic", "Lecture 42 - Pointer Arithmetic\Lecture 42 - Pointer Arithmetic.vcxproj", "{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{A0AEE594-DB00-421F-ACD5-E85D1BB8E6F0}.Release|x64.Build.0 = Release|x64
 		{A0AEE594-DB00-421F-ACD5-E85D1BB8E6F0}.Release|x86.ActiveCfg = Release|Win32
 		{A0AEE594-DB00-421F-ACD5-E85D1BB8E6F0}.Release|x86.Build.0 = Release|Win32
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Debug|x64.ActiveCfg = Debug|x64
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Debug|x64.Build.0 = Debug|x64
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Debug|x86.ActiveCfg = Debug|Win32
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Debug|x86.Build.0 = Debug|Win32
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Release|x64.ActiveCfg = Release|x64
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Release|x64.Build.0 = Release|x64
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Release|x86.ActiveCfg = Release|Win32
+		{83EF4E25-0C30-4354-B7A6-5EEC89F4F122}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

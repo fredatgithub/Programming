@@ -8,7 +8,6 @@ int main()
 	PointerArith test;
 	test.userChoice();
 	
-	
 	system("pause");
 	return 0;
 }

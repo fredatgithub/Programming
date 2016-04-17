@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 46 - The const Keyw
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 47 - Copy Constructors", "Lecture 47 - Copy Constructors\Lecture 47 - Copy Constructors.vcxproj", "{E93D1DEF-089C-431A-9630-C525DB094C61}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 48 - The new Operator", "Lecture 48 - The new Operator\Lecture 48 - The new Operator.vcxproj", "{6ABC5146-4B36-4C72-851E-8D8058CB17D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{E93D1DEF-089C-431A-9630-C525DB094C61}.Release|x64.Build.0 = Release|x64
 		{E93D1DEF-089C-431A-9630-C525DB094C61}.Release|x86.ActiveCfg = Release|Win32
 		{E93D1DEF-089C-431A-9630-C525DB094C61}.Release|x86.Build.0 = Release|Win32
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Debug|x64.ActiveCfg = Debug|x64
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Debug|x64.Build.0 = Debug|x64
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Debug|x86.Build.0 = Debug|Win32
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Release|x64.ActiveCfg = Release|x64
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Release|x64.Build.0 = Release|x64
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Release|x86.ActiveCfg = Release|Win32
+		{6ABC5146-4B36-4C72-851E-8D8058CB17D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

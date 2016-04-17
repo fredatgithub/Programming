@@ -19,8 +19,6 @@ public:
 	Corgi();
 	~Corgi();
 
-	Corgi(const Corgi& dog);
-
 	void setName(std::string name);
 	void setColor(int color);
 	void setSex(int assignSex);

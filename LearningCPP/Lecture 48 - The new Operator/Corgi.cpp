@@ -3,17 +3,14 @@
 
 Corgi::Corgi()
 {
-	std::cout << "New Corgi has entered." << std::endl;
+	std::cout << "=======================================" << std::endl;
+	std::cout << "New corgi has been created.\n" << std::endl;
 }
 
 Corgi::~Corgi()
 {
-	std::cout << "Destructor called.\n" << std::endl;
-}
-
-Corgi::Corgi(const Corgi& dog)
-{
-	std::cout << "\nClone of " << dog.name << " was created." << std::endl;
+	std::cout << "\nDestructor called." << std::endl;
+	std::cout << "=======================================" << std::endl;
 }
 
 void Corgi::setName(std::string name)

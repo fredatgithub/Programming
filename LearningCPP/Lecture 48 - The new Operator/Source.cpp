@@ -17,7 +17,7 @@ int main()
 	clone1.getInfo();
 	*/
 	
-	Corgi *pCorgi1 = NULL;
+	Corgi *pCorgi1 = NULL; // Start the pointers as NULL
 	pCorgi1 = new Corgi();
 	pCorgi1->setName("Buggeh");
 	pCorgi1->setColor(2);
@@ -26,7 +26,7 @@ int main()
 	delete pCorgi1;
 	
 
-	Corgi *pCorgi2 = NULL;
+	Corgi *pCorgi2 = NULL; // Start the pointers as NULL
 	pCorgi2 = new Corgi();
 	pCorgi2->setName("Bear");
 	pCorgi2->setColor(1);

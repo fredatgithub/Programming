@@ -20,6 +20,10 @@ public class Application {
                     System.out.println("Console started.");
                     on = true;
                     break;
+
+                default:
+                    System.out.println("Command not recognized.");
+
             }
         }
 
@@ -46,6 +50,11 @@ public class Application {
                     System.out.println("Console stopped.");
                     on = false;
                     break;
+
+                default:
+                    System.out.println("Command not recognized.");
+
+
             }
         }
     }

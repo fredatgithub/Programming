@@ -14,7 +14,7 @@ int main() {
 
 	cout << "A new dog was found! \n";
 
-	numberOfDogs = numberOfDogs + 1; //This adds one to the original amound of dogs
+	numberOfDogs = numberOfDogs + 1; //This adds one to the original amount of dogs
 	cout << "Number of Dogs: " << numberOfDogs << "\n";
 	cout << "Number of Animals: " << totalAnimals << "\n";
 

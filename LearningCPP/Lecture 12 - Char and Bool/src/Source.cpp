@@ -1,5 +1,5 @@
 #include <iostream>
-#include <limits>
+#include <limits.h>
 using std::cin;
 using std::cout;
 using std::endl;
@@ -23,7 +23,7 @@ int main() {
 	cout << endl;
 	
 	bool bValue = true; //or false
-	char cValue1 = '13';
+	char cValue1 = '1';
 	char cValue2 = 'y';
 	wchar_t cValue3 = 'i';
 

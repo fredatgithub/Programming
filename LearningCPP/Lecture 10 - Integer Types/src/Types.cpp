@@ -1,5 +1,5 @@
 #include <iostream>
-#include <limits>
+#include <limits.h>
 
 //So that we dont have to put 'std::'
 using std::cout;

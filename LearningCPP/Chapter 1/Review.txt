@@ -1,0 +1,58 @@
+1. What is software?
+	Software is a program that runs on hardware. Often used to simplify a task.
+
+2. Why is software important?
+	Our world practically runs on electronics now. Everything we do has some type of computer with it anymore.
+
+3. Where is software important?
+	It is important wherever hardware is needed to complete a task to make things easier.
+
+4. What could go wrong if software fails?
+	You could lose data, a task could become more complicated, tasks could be unable to be completed.
+	Ex. Game crashes and loses the save.
+
+5. Where does software play an important role?
+	Software is important wherever there is a computer.
+	Ex. Science lab, schools, businesses.
+
+6. What are some jobs related to software development?
+	Ex. Game developers, security, business, non profits, networking, etc..
+
+7. What's the difference between computer science and programming?
+	Computer science is more of a blanket term used to describe things that have to do with computers, like programming.
+
+8. Where in the design, construction, and use of a ship is software used?
+	Movies use computer programs to render the film and edit it, construction uses computer programs to make the blueprints, and radar is used on ships.
+
+9. What is a server farm?
+	A server farm is a large amount of servers in one area.
+
+10. What kinds of queries do you ask online?
+	I typically just ask about games and programming now.
+
+11. What are some uses of software in science?
+	Rendering old dinosaurs to see what they would look like now.
+
+12. What are some uses of software in medicine?
+	Software to track the vitals of the patient if needed.
+
+13. What are some uses of software in entertainment?
+	3D rendering for movies.
+
+14. What general properties do we expect from good software?
+	To make the desired task simpler to complete and is easy to use.
+
+15. What does a software developer look like?
+	They can look just like everybody else in the world, anybody can become a developer.
+
+16. What are the stages of software development?
+	Analysis, Design, Programming, Testing.
+
+17. Why can software development be difficult?
+	It can take a lot of time and thinking. Often it can get frustrating to deal with it.
+
+18. What are some uses of software to make your life easier?
+	Anything on computers honestly, I am constantly on one.
+
+19. What are some uses of software to make your life more difficult?
+	Almost exactly the same ones, but then there are things like viruses that can ruin things.

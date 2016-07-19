@@ -1,4 +1,4 @@
-#include "../std_lib_facilities.h"
+#include <iostream>
 
 int main() {
     std::cout << "To find the upstairs bathroom: \n";

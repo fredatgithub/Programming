@@ -1,6 +1,6 @@
-How to comile:
-	Linux: c++ -o {Desiried title} {files}
-	ex: c++ -o my_program main.cpp
+How to compile:
+    Linux: c++ -o {Desired title} {files} or you can use the shell script in test
+	ex: c++ -o my_program main.cpp or sh compile.sh
 	
 How to run:
 	Linux: ./{Program Title}

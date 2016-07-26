@@ -9,5 +9,6 @@ int main() {
     std::cout << "Follow that road until you get to a stop sign, turn left on 319.\n";
     std::cout << "Follow that road until you get to her house.\n";
 
+    std::cin.get();
     return 0;
 }

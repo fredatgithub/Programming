@@ -1,0 +1,69 @@
+1. What is meant by the term prompt? 
+	A prompt is something that alerts the user of something.
+
+2. Which operator do you use to read into a variable?
+	std::cin '>>'
+
+3. If you wanted the user to input an integer value into your program for a variable named number, what are two lines of code you could write to ask the user to do it and to input the value into your program? 
+	int number;
+	std::cin >> number;
+
+4. What is \n called and what purpose does it serve?
+	That is the newline operator. It creates a newline at the end of a string.
+
+5. What terminates input into a string?
+	Whitespace.
+
+6. What terminates input into an integer?
+	Something other than an integer.
+
+7. How would you write
+std::cout << "Hello, ";
+std::cout << first_name;
+std::cout << "!\n";
+	std::cout << "Hello, " << first_name << "!\n";
+
+8. What is an object?
+	An object is some memory that holds a value of a given type.
+
+9. What is a literal?
+	A literal is the name of a variable.
+
+10. What kind of literals are there?
+	
+
+11. What is a variable?
+	A variable is a chunk of memory that is assigned to hold a value.
+
+12. What are typical sizes for a char, an int, and a double?
+	
+
+13. What measure do we use for the size of small entreis in memory, such as ints and strings?
+	
+
+14. What is the difference between = and ==?
+	= is assignment, == is checking the value for equality.
+
+15. What is a definition?
+	A definition is when you name a variable.
+
+16. What is an initialization and how does it differ from an assignment?
+	Initialization is when you give a variable a starting value, assignments is when you change that value later on.
+
+17. What is string concatenation and how do you make it work in C++?
+	This is when you combine strings into one string.
+
+19. Give five examples of legal names that you shouldn't use because they are likely to cause confusion.
+	x, y, foo, f00.
+
+20. What are some good rules for choosing names?
+	Make them describe what they are doing, but don't make them very long and difficult to describe.
+
+21. What is type safety, and why is it important?
+	
+
+22. Why can conversion from double to int be a bad thing?
+	A double usually will have floating points, ints will not.
+
+23. Define a rule to help decide if a converstion from one type to another is safe or not?
+	Make sure that they will give you the outcome that you were wanting, and not butcher your work.

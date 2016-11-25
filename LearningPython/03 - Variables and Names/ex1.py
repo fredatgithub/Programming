@@ -10,8 +10,8 @@ carpoolCapacity = carsDriven * spaceInCar
 averagePassengerInCar = passengers / carsDriven
 
 #Here we print out the variables along with a sentence for each.
-print "There are", cars, "cars available."
-print "There will only be", drivers, "drivers available."
-print "There will be", carsNotDriven, "cars not driven."
-print "We can only transport", carpoolCapacity, "people today."
-print "We need about", averagePassengerInCar, "people in each car." 
+print("There are", cars, "cars available.")
+print("There will only be", drivers, "drivers available.")
+print("There will be", carsNotDriven, "cars not driven.")
+print("We can only transport", carpoolCapacity, "people today.")
+print("We need about", averagePassengerInCar, "people in each car.") 

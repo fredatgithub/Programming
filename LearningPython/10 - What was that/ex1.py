@@ -11,7 +11,7 @@ I will do a list:
 \t * Catnip \n\t * Grass
 """ 
 
-print tabbyCat
-print persianCat
-print backslashCat
-print fatCat
+print(tabbyCat)
+print(persianCat)
+print(backslashCat)
+print(fatCat)

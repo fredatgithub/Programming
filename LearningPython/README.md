@@ -17,6 +17,7 @@ I am using [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) t
 * [12 - Promting People](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/12%20-%20Prompting%20People)
 * [13 - Parameters, Unpacking, Variables](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/13%20-%20Parameters%2C%20Unpacking%2C%20Variables)
 * [14 - Prompting and Passing](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/14%20-%20Prompting%20and%20Passing)
+* [15 - Reading Files](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/15%20-%20Reading%20Files)
 
 ##Getting Help:
 You can either get help from your own console like this:

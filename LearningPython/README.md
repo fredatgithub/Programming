@@ -16,7 +16,7 @@ I am using [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) t
 * [11 - Asking Questions](https://github.com/BlakeBarnes00/Python/tree/master/11%20-%20Asking%20Questions)
 * [12 - Promting People](https://github.com/BlakeBarnes00/Python/tree/master/12%20-%20Prompting%20People)
 * [13 - Parameters, Unpacking, Variables](https://github.com/BlakeBarnes00/Python/tree/master/13%20-%20Parameters%2C%20Unpacking%2C%20Variables)
-* [14 - Promting and Passing](https://github.com/BlakeBarnes00/Python/tree/master/14%20-%20Promting%2Cand%2CPassing)
+* [14 - Prompting and Passing](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/14%20-%20Prompting%20and%20Passing)
 
 ##Getting Help:
 You can either get help from your own console like this:

@@ -23,9 +23,10 @@ I am using [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) t
 * [18 - Names, Variables, Code, Functions](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/18%20-%20Names%2C%20Variables%2C%20Code%2C%20Functions)
 * [19 - Functions and Variables](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/19%20-%20Functions%20and%20Variables)
 * [20 - Functions and Files](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/20%20-%20Functions%20and%20Files)
-* [21 - Functions Can Return Something]()
-* [24 - More Practice]()
-* [25 - Even More Practice]()
+* [21 - Functions Can Return Something](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/21%20-%20Functions%20Can%20Return%20Something)
+* [24 - More Practice](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/24%20-%20More%20Practice)
+* [25 - Even More Practice](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/25%20-%20Even%20More%20Practice)
+* [26 - Congratulations Take a Test](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/26%20-%20Congratulations%20Take%20a%20Test)
 
 ##Getting Help:
 You can either get help from your own console like this:

@@ -25,6 +25,7 @@ I am using [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) t
 * [20 - Functions and Files](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/20%20-%20Functions%20and%20Files)
 * [21 - Functions Can Return Something]()
 * [24 - More Practice]()
+* [25 - Even More Practice]()
 
 ##Getting Help:
 You can either get help from your own console like this:

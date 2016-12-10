@@ -27,7 +27,7 @@ I am using [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) t
 * [24 - More Practice](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/24%20-%20More%20Practice)
 * [25 - Even More Practice](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/25%20-%20Even%20More%20Practice)
 * [26 - Congratulations Take a Test](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/26%20-%20Congratulations%20Take%20a%20Test)
-* [29 - What If]()
+* [29 - What If](https://github.com/BlakeBarnes00/Programming/tree/master/LearningPython/29%20-%20What%20If)
 
 ##Getting Help:
 You can either get help from your own console like this:

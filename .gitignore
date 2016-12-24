@@ -32,3 +32,6 @@
 *[Dd]ebug/
 *[Rr]elease/
 *[Bb]in/
+
+# VIM swp files
+*.swp

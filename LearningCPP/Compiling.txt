@@ -1,8 +1,0 @@
-How to compile:
-    Linux: c++ -o {Desired title} {files} or you can use the shell script in test
-		ex: c++ -o my_program main.cpp or sh compile.sh
-	Windows: I am using Sublime Text 3, which when you press CTRL+B it will build using Mingw. 
-	
-How to run:
-	Linux: ./{Program Title}
-		ex: ./my_program

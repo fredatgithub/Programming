@@ -5,6 +5,9 @@
  *		http://rbwhitaker.wikidot.com/c-sharp-properties
  */
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text; 
 
 namespace EllisBarnes
 {
